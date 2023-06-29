@@ -19,7 +19,7 @@ document.addEventListener('DOMContentLoaded', function() {
       if (name === 'Rekha' && password === 'Samarth') {
         alert('Login successful');
         // Redirect to another page or perform any desired action
-        window.location.href = 'http://127.0.0.1:5500/Time.html';
+        window.location.href = 'Time.html';
       } else {
         alert('Invalid name or password');
         // Clear the form or display an error message
