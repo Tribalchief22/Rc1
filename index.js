@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
       // Perform validation and authentication
       // Example code: Assume the name is "admin" and password is "password"
-      if (name === 'Rekha' && password === 'Samarth') {
+      if (name === 'Rekha' && password === 'Dream') {
         alert('Login successful');
         // Redirect to another page or perform any desired action
         window.location.href = 'Time.html';
